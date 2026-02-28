@@ -86,4 +86,7 @@ This project focused on **Metro Manila hubs** (Mm-East, Mm-West, Mm-North, Mm-So
 - It has the lowest on-time delivery performance **(84.86%)**.
 - Less overtime and delays means less uptime, resulting in greater efficiency and lower costs per delivery.
 
-**I recommend going with Option 1. Mm-East's issues are glaring enough to substantially drag overall efficiency down. Tackling Mm-East's issues first will both clean up and standardize operational efficiency for St. Matthew Logistics's operations in Metro Manila, easing operations into later efficiency-driven initiatives.**
+## Final Recommendation
+
+**I recommend going with Option 1.** 
+Mm-East's issues are glaring enough to substantially drag overall efficiency down. Tackling Mm-East's issues first will both clean up and standardize operational efficiency for St. Matthew Logistics's operations in Metro Manila, easing operations into later efficiency-driven initiatives.
