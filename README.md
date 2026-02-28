@@ -9,6 +9,7 @@ Focused on **Metro Manila hubs** (Mm-East, Mm-West, Mm-North, Mm-South) to keep 
 - Raw data: `data/raw/delivery_van_ops_raw.xlsx`
 - Clean KPI table: `data/processed/kpi_table_powerbi_filled_plausible_final.csv`
 - Cleaning notebook: `notebooks/datacleanup.ipynb`
+-   You may also check out the notebook via the [Google Colab link](https://colab.research.google.com/drive/13uCNcH3-YWD2DtoeiY_q2GDQ6iDASim3?authuser=1#scrollTo=T9OKpEM1eaI8).
 - Power BI dashboard: `powerbi/portfolio.pbix`
 
 ## Core KPIs (4)
