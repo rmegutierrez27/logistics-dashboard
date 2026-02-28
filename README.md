@@ -32,10 +32,10 @@ This project focused on **Metro Manila hubs** (Mm-East, Mm-West, Mm-North, Mm-So
 - Visualization completed with AI assistance via Microsoft Power BI.
 
 ## Raw Data Screenshot
-![Raw Dataset](Screenshots/rawdata.png)
+![Raw Dataset](data/raw/rawdata.png)
 
 ## Cleaned Data Screenshot
-![Cleaned Dataset](Screenshots/cleandata.png)
+![Cleaned Dataset](data/processed/cleandata.png)
 
 ## Dashboard Screenshots
 ![Page 1](Screenshots/page1_executive.png)
