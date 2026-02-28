@@ -81,7 +81,7 @@ This project focused on **Metro Manila hubs** (Mm-East, Mm-West, Mm-North, Mm-So
 - Only an 85.72% On Time Delivery rate average
 - Only a 0.84/84% Fuel Efficiency ratio on average
 
-## Recommendations
+## Potential Recommendations
 1. **Focus on Mm-East's efficiency pain points**
 - It has the highest cost per delivery **(₱40.10)** and lowest fuel efficiency ratio **(0.83)**.
 - This will reduce average costs per delivery by at least **5 percentage points**, while also improving SML's Metro Manila fuel efficiency ratio by at least **2 percentage points**.
