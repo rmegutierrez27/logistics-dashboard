@@ -40,10 +40,13 @@ This project focused on **Metro Manila hubs** (Mm-East, Mm-West, Mm-North, Mm-So
 ## Dashboard Screenshots
 ![Page 1](Screenshots/page1_executive.png)
 **Page 1 — Executive Summary**: This is an overview of the dashboard's talking points.
+
 ![Page 2](Screenshots/page2_diagnostics.png)
 **Page 2 — Diagnostics**: This is the diagonistics page of the dashboard, elaborating further on delivery van performance according to the metrics.
+
 ![Page 3](Screenshots/page3_fuel_productivity.png)
 **Page 3 — Fuel & Efficiency**: This is a deeper dive into the fuel efficiency of each Metro Manila hub route. The scatter chart (top) is for the 20 most fuel-efficient routes, and the bottom chart is for the 10 least fuel-efficient routes.  
+
 ![Page 4](Screenshots/page4_drilldown.png)
 **Page 4 — Drilldown Heatmap**: The final page is an interactive, color-coded drilldown of the performance of each Metro Manila hub route, divided further by area hub.
 
