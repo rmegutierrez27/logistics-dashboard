@@ -19,11 +19,11 @@ This project focused on **Metro Manila hubs** (Mm-East, Mm-West, Mm-North, Mm-So
 -   You may also check out the notebook via the [Google Colab link](https://colab.research.google.com/drive/13uCNcH3-YWD2DtoeiY_q2GDQ6iDASim3?authuser=1#scrollTo=T9OKpEM1eaI8).
 - Power BI dashboard: `powerbi/portfolio.pbix`
 
-## Core KPIs
-1. **KPI 1: Cost per Successful Delivery (PHP)** = Total Cost / Successful Deliveries  
-2. **KPI 2: First Attempt Success Rate (%)** = Parcels Delivered / Delivery Attempts  
-3. **KPI 3: On-Time Delivery Rate (%)** = On-time Deliveries / Parcels Delivered  
-4. **KPI 4: Fuel Efficiency vs Standard (ratio)** = Actual km/L / Typical km/L
+## Raw Data Screenshot
+![Raw Dataset](data/raw/rawdata.png)
+
+## Cleaned Data Screenshot
+![Cleaned Dataset](data/processed/cleandata.png)
 
 ## Methodology Summary
 - Raw data cleaned up with AI assistance via **Google Colab Python Notebook** (Pandas)
@@ -32,11 +32,11 @@ This project focused on **Metro Manila hubs** (Mm-East, Mm-West, Mm-North, Mm-So
 - Visualization completed with AI assistance via **Microsoft Power BI**.
 - ChatGPT AI Assistance refined via prompt engineering and machine learning, using the zero-shot, few-shot, and chain-of-thought methods in order to refine AI insight responses for this project.
 
-## Raw Data Screenshot
-![Raw Dataset](data/raw/rawdata.png)
-
-## Cleaned Data Screenshot
-![Cleaned Dataset](data/processed/cleandata.png)
+## Core KPIs
+1. **KPI 1: Cost per Successful Delivery (PHP)** = Total Cost / Successful Deliveries  
+2. **KPI 2: First Attempt Success Rate (%)** = Parcels Delivered / Delivery Attempts  
+3. **KPI 3: On-Time Delivery Rate (%)** = On-time Deliveries / Parcels Delivered  
+4. **KPI 4: Fuel Efficiency vs Standard (ratio)** = Actual km/L / Typical km/L
 
 ## Dashboard Screenshots
 ![Page 1](Screenshots/page1_executive.png)
