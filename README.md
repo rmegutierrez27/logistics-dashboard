@@ -69,7 +69,7 @@ This project focused on **Metro Manila hubs** (Mm-East, Mm-West, Mm-North, Mm-So
 - Its fuel efficiency ratio across its routes is also the weakest in 2025 **(0.83)**, being 2 percentage points lower than the West and South hubs.
 3. **Mm-South** is SML's weakest Metro Manila hub in its First Attempt Success rate.
 - At **78.89%**, it, along with the East hub, falls below the **81.27%** average success rate of the North and West hubs.
-4. However, even with Mm-North's relatively strong performance, all of St. Matthew Logistics' Metro Manila hubs have room for improvement in efficiency, beyond just lowering costs per delivery.
+4. However, even with Mm-North's relatively strong performance, all of St. Matthew Logistics' Metro Manila hubs have room for a **5 percentage point** improvement in efficiency, beyond just lowering costs per delivery.
 - Only an 80.31% First Attempt Success rate average
 - Only an 85.72% On Time Delivery rate average
 - Only a 0.84/84% Fuel Efficiency ratio on average
