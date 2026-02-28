@@ -11,7 +11,7 @@ This project focused on **Metro Manila hubs** (Mm-East, Mm-West, Mm-North, Mm-So
 
 ## Objectives
 - Reduce average **cost per successful delivery**
-   Improve operational efficiency drivers: **first attempt success rate**, **on-time delivery rate**, **fuel efficiency ratio**
+- Improve operational efficiency drivers: **first attempt success rate**, **on-time delivery rate**, **fuel efficiency ratio**
 
 ## Files
 - Raw data: `data/raw/delivery_van_ops_raw.xlsx`
