@@ -1,7 +1,7 @@
 # In Metro Manila, are we spending more to deliver less?
 
 ## Problem Statement
-St. Matthew's Logistics's Metro Manila delivery van operations are experiencing **more expensive** costs per successful delivery than projected, reducing SML's profitability and limiting its ability to scale service reliably. 
+St. Matthew's Logistics's Metro Manila delivery van operations are experiencing **5% more expensive** costs per successful delivery than projected, reducing SML's profitability and limiting its ability to scale service reliably. 
 
 ## Project Summary
 I was given SML's raw nationwide dataset for this project. It contains trip and route-level operational data, but variability across regions outside Metro Manila made it difficult to isolate actionable drivers. Thus, the project targeted Metro Manila hubs to identify the key operational metrics **(repeat delivery attempts, late deliveries, and below-standard fuel efficiency)** at the root of SML's elevated delivery costs. The project's goal was, in order: to clean and standardize the dataset, build a KPI framework, and use AI, Python, and Power BI to pinpoint hubs/routes where targeted process and efficiency improvements can lower cost per successful delivery, without reducing delivery volume or service performance.
@@ -62,7 +62,7 @@ This project focused on **Metro Manila hubs** (Mm-East, Mm-West, Mm-North, Mm-So
 - Only a 0.84/84% Fuel Efficiency ratio on average
 
 ## Target figures per KPI
-1. **KPI 1: Cost per Successful Delivery (PHP)**: ₱34 or lower
+1. **KPI 1: Cost per Successful Delivery (PHP)**: ₱31.5 or lower
 2. **KPI 2: First Attempt Success Rate (%)**: 85% or higher
 3. **KPI 3: On-Time Delivery Rate (%)**: 90% or higher
 4. **KPI 4: Fuel Efficiency vs Standard (ratio)**: 0.9 or higher
