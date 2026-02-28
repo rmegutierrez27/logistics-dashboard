@@ -26,10 +26,10 @@ This project focused on **Metro Manila hubs** (Mm-East, Mm-West, Mm-North, Mm-So
 4. **KPI 4: Fuel Efficiency vs Standard (ratio)** = Actual km/L / Typical km/L
 
 ## Methodology Summary
-- Raw data cleaned up with AI assistance via Google Colab Python Notebook (Pandas)
+- Raw data cleaned up with AI assistance via **Google Colab Python Notebook** (Pandas)
   - Addressed “impossible zeros” (activity present but fields recorded as 0) using rule-based fills from typical hub/route behavior. Adjusted rows were flagged for transparency.
-- Further refined cleaned up dataset with Microsoft Excel.
-- Visualization completed with AI assistance via Microsoft Power BI.
+- Further refined cleaned up dataset with **Microsoft Excel**.
+- Visualization completed with AI assistance via **Microsoft Power BI**.
 
 ## Raw Data Screenshot
 ![Raw Dataset](data/raw/rawdata.png)
