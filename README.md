@@ -60,6 +60,7 @@ This project focused on **Metro Manila hubs** (Mm-East, Mm-West, Mm-North, Mm-So
 **Page 4 — Drilldown Heatmap**: The final page is an interactive, color-coded drilldown of the performance of each Metro Manila hub route, divided further by area hub.
 
 ## Key Insights
+![KeyInsights](Screenshots/Drilldown%20Highlighted.png)
 1. **Mm-North** is St. Matthew Logistics's top performing hub in Metro Manila.
 - It has the lowest cost per delivery among SML's four Metro Manila hubs.
 - It also has the highest First Attempt Success rate among the four Metro Manila hubs.
