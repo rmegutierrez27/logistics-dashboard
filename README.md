@@ -6,11 +6,12 @@ In 2025, **St. Matthew's Logistics's** (SML) Metro Manila delivery van operation
 ## Project Summary
 This project investigates why cost per successful delivery is elevated in SML’s 2025 delivery-van operations. I highlighted specific pain points in the dataset so that SML's leadership can act quickly to reduce them. Given the Metro Manila-centric scope, the deep-dive focuses on Metro Manila hubs to keep comparisons consistent and actionable. Using a four-KPI framework, the dashboard highlights which hubs are driving higher costs, and whether these drivers are repeat attempts, delays, or fuel inefficiency. The output is an interactive data dashboard that helps prioritize high-cost, high-volume routes for operational fixes without sacrificing delivery volume or service levels.
 
-## Objective
-I set out to create actionable recommendations for lowering **cost per successful delivery** for SML's Metro Manila delivery van operations, via identifying key cost drivers across hubs and routes, based on raw data obtained spanning the timeline of December 2024 to December 2025.
-
 ## Scope
 This project focused on **Metro Manila hubs** (Mm-East, Mm-West, Mm-North, Mm-South) to keep operating conditions comparable (delivery density + traffic patterns).
+
+## Objectives
+- Reduce average **cost per successful delivery**
+   Improve operational efficiency drivers: **first attempt success rate**, **on-time delivery rate**, **fuel efficiency ratio**
 
 ## Files
 - Raw data: `data/raw/delivery_van_ops_raw.xlsx`
@@ -18,6 +19,7 @@ This project focused on **Metro Manila hubs** (Mm-East, Mm-West, Mm-North, Mm-So
 - Cleaning notebook: `notebooks/datacleanup.ipynb`
   - You may also check out the notebook via the [Google Colab link](https://colab.research.google.com/drive/13uCNcH3-YWD2DtoeiY_q2GDQ6iDASim3?authuser=1#scrollTo=T9OKpEM1eaI8).
 - Power BI dashboard: `powerbi/portfolio.pbix`
+- Screenshots: `Screenshots/`
 
 ## Raw Data Screenshot
 ![Raw Dataset](data/raw/rawdata.png)
@@ -65,11 +67,14 @@ This project focused on **Metro Manila hubs** (Mm-East, Mm-West, Mm-North, Mm-So
 1. **Mm-North** is St. Matthew Logistics's top performing hub in Metro Manila.
 - It has the lowest cost per delivery among SML's four Metro Manila hubs.
 - It also has the highest First Attempt Success rate among the four Metro Manila hubs.
+
 2. In contrast, **Mm-East** is St. Matthew Logistics's weak link in its Metro Manila hubs.
 - Its average cost per delivery in 2025 was **₱40.10**, **26%** higher than the average cost per delivery between the North, West, and South hubs.
 - Its fuel efficiency ratio across its routes is also the weakest in 2025 **(0.83)**, being 2 percentage points lower than the West and South hubs.
+
 3. **Mm-South** is SML's weakest Metro Manila hub in its First Attempt Success rate.
 - At **78.89%**, it, along with the East hub, falls below the **81.27%** average success rate of the North and West hubs.
+
 4. However, even with Mm-North's relatively strong performance, all of St. Matthew Logistics' Metro Manila hubs have room for a **5 percentage point** improvement in efficiency, beyond just lowering costs per delivery.
 - Only an 80.31% First Attempt Success rate average
 - Only an 85.72% On Time Delivery rate average
@@ -79,9 +84,11 @@ This project focused on **Metro Manila hubs** (Mm-East, Mm-West, Mm-North, Mm-So
 1. **Focus on Mm-East's efficiency pain points**
 - It has the highest cost per delivery **(₱40.10)** and lowest fuel efficiency ratio **(0.83)**.
 - This will reduce average costs per delivery by at least **5 percentage points**, while also improving SML's Metro Manila fuel efficiency ratio by at least **2 percentage points**.
+  
 2. **Reduce Mm-South's reattempts**
 - It has the lowest first-attempt success rate **(78.89%)**.
 - Fewer reattempts means less fuel, less uptime, and ultimately, lower costs per delivery.
+
 3. **Target Mm-West's on-time delivery performance**
 - It has the lowest on-time delivery performance **(84.86%)**.
 - Less overtime and delays means less uptime, resulting in greater efficiency and lower costs per delivery.
