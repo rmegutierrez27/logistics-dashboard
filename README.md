@@ -1,7 +1,7 @@
 # In Metro Manila, are we spending more to deliver less?
 
 ## Problem Statement
-St. Matthew's Logistics's Metro Manila delivery van operations are experiencing **5% more expensive** costs per successful delivery than projected, reducing SML's profitability and limiting its ability to scale service reliably. 
+In 2025, St. Matthew's Logistics's Metro Manila delivery van operations experienced **5% more expensive** costs per successful delivery than projected, reducing SML's profitability and limiting its ability to scale service reliably. 
 
 ## Project Summary
 I was given SML's raw nationwide dataset for this project. It contains trip and route-level operational data, but variability across regions outside Metro Manila made it difficult to isolate actionable drivers. Thus, the project targeted Metro Manila hubs to identify the key operational metrics **(repeat delivery attempts, late deliveries, and below-standard fuel efficiency)** at the root of SML's elevated delivery costs. The project's goal was, in order: to clean and standardize the dataset, build a KPI framework, and use AI, Python, and Power BI to pinpoint hubs/routes where targeted process and efficiency improvements can lower cost per successful delivery, without reducing delivery volume or service performance.
