@@ -30,6 +30,7 @@ This project focused on **Metro Manila hubs** (Mm-East, Mm-West, Mm-North, Mm-So
   - Addressed “impossible zeros” (activity present but fields recorded as 0) using rule-based fills from typical hub/route behavior. Adjusted rows were flagged for transparency.
 - Further refined cleaned up dataset with **Microsoft Excel**.
 - Visualization completed with AI assistance via **Microsoft Power BI**.
+- ChatGPT AI Assistance refined via prompt engineering and machine learning, using the zero-shot, few-shot, and chain-of-thought methods in order to refine AI insight responses for this project.
 
 ## Raw Data Screenshot
 ![Raw Dataset](data/raw/rawdata.png)
