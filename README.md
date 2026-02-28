@@ -26,7 +26,8 @@ This project focused on **Metro Manila hubs** (Mm-East, Mm-West, Mm-North, Mm-So
 ![Cleaned Dataset](data/processed/cleandata.png)
 
 ## Methodology Summary
-- Dataset preparation and cleanup via **Google Colab Python Notebook** (Pandas)
+- Raw dataset generation via ChatGPT
+- Raw dataset preparation and cleanup via **Google Colab Python Notebook** (Pandas)
   - Addressed “impossible zeros” (activity present but fields recorded as 0) using rule-based fills from typical hub/route behavior. Adjusted rows were flagged for transparency.
 - Secondary dataset refinement with **Microsoft Excel**.
 - Data visualization built with via **Microsoft Power BI**.
