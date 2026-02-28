@@ -30,10 +30,10 @@ Focused on **Metro Manila hubs** (Mm-East, Mm-West, Mm-North, Mm-South) to keep 
 - **Page 4 — Drilldown Heatmap**
 
 ## Screenshots
-![Page 1](screenshots/page1_executive.png)  
-![Page 2](screenshots/page2_diagnostics.png)  
-![Page 3](screenshots/page3_fuel_productivity.png)  
-![Page 4](screenshots/page4_drilldown.png)  
+![Page 1](screenshots/page1_executive.png.png)  
+![Page 2](screenshots/page2_diagnostics.png.png)  
+![Page 3](screenshots/page3_fuel_productivity.png.png)  
+![Page 4](screenshots/page4_drilldown.png.png)  
 
 ## Reproduce
 1. Run the notebook in `notebooks/`
